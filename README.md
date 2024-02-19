@@ -1,8 +1,8 @@
 # Diabetes Prediction System 👩‍⚕️💉
 
-![Photo-2](https://github.com/MitKalariya01/Diabetes-Prediction-System/assets/104752543/950db9cc-9052-4c62-ad9f-6d7142f0d26e)
-
 ![Photo-1](https://github.com/MitKalariya01/Diabetes-Prediction-System/assets/104752543/cdba42c7-64dd-4669-a694-1b8a72b297a6)
+
+![Photo-2](https://github.com/MitKalariya01/Diabetes-Prediction-System/assets/104752543/950db9cc-9052-4c62-ad9f-6d7142f0d26e)
 
 This project aims to predict the likelihood of diabetes in patients based on certain diagnostic measurements. The dataset used in this project is originally from the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). The objective is to diagnostically predict whether a patient has diabetes using machine learning algorithms.
 
